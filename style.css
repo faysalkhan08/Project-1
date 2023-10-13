@@ -1,0 +1,57 @@
+.btn-02{
+    width: 150px;
+    height: 40px;
+    border-radius: 50px !important;
+    background-color: rgba(25, 88, 95, 0.847);
+}
+
+.bethany{
+    background-color: rgba(25, 88, 95, 0.847);
+    width: 150px;
+    text-align: center;
+    color: white;
+    font-size: 23px !important;
+}
+
+.div-1{
+    color: white;
+    margin-top: 150px;
+    padding-bottom: 237px;
+}
+
+.main-div-1{
+    background-size: cover;
+    background-image: url('https://media.istockphoto.com/id/1352603244/photo/shot-of-an-unrecognizable-businessman-working-on-his-laptop-in-the-office.webp?b=1&s=170667a&w=0&k=20&c=cae8s_ncw2axGBVrD5vJR6DBqmVbQkKfAP1ecKUvQzQ=');
+}
+
+.btn-01{
+    margin-top: 40px;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px !important;
+}
+
+.nav-1{
+    width: 90%;
+}
+
+.main-div-2{
+    display: flex;
+}
+
+.div-01{
+    width: 50%;
+}
+
+.div-02{
+    width: 50%;
+
+}
+
+.h1-1{
+    margin-top: 50px;
+}
+
+.p-1{
+    margin-top: 50px;
+}
